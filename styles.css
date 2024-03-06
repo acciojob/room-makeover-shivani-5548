@@ -1,4 +1,8 @@
-span{
-	color:yellow
+.favorite-color{
+	
+	color:pink;
+	font-style:italic;
+	font-size:30px;
+	font-weight:400;
 }
 /* Your CSS Code here. */
